@@ -71,7 +71,7 @@
 
 ## 🚀 Projects
 
-### [Meal Xpress](https://meal-express-phda.vercel.app/)
+### [Meal Express](https://meal-express-phda.vercel.app/)
 A fully responsive web application for users to browse, order, and track meals from local restaurants.
 - **Technologies Used:** HTML, CSS, JavaScript, Bootstrap, React JS, MongoDB, Express JS, Node JS
 - **Features:** Add to Cart, Keyword Search, Sign Up, and Login using JWT Authentication
