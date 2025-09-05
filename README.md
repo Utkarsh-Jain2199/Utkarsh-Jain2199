@@ -81,20 +81,33 @@ A blog application that helps you easily find blogs matching your interests for 
 - **Technologies Used:** Java, PostgreSQL, Thymeleaf, Spring, Spring Security, Spring Boot
 - **Features:** Personalized content delivery, secured user access via Spring Security
 
-### [Sorting Algorithm Visualizer](https://sorting-algorithm-visualiser-psi.vercel.app/)
+### [AlgoMotionX](https://sorting-algorithm-visualiser-psi.vercel.app/)
 A visualizer that helps users understand and visualize various sorting algorithms.
 - **Technologies Used:** HTML, CSS, JavaScript, Bootstrap
 - **Features:** Processing Speed Control, Array Size Control
 
 ## 💼 Professional Experience
 
-### Software Development Engineer (SDE) - I | MountBlue Technologies (Jan 2024 – Apr 2024)
-- Developed a Real-Time Application, Matrix, utilizing C# and ASP.NET, improving system performance by 25%.
-- Implemented integration and project management using MySQL, Git, GitHub, Jira Confluence, and Bitbucket, reducing integration issues by 30%.
+### Software Engineer - Onsite | Spinny (Mar 2025 – Jul 2025)
+- Developed and enhanced car finance, warranty, and checkout modules, increasing user engagement and lead conversions.
+- Delivered PDP upgrades that drove a 20% rise in EMI interactions and improved loan disbursal efficiency.
+- Redesigned Car Quality Report (V3) on the Product Detail Page, improving user engagement by 30% with dynamic components, visuals, and a scalable, reusable codebase.
+- Improved SEO by refining bot behavior and link structure, strengthening visibility across search and crawlability.
+- Embedded 30+ analytics tags and resolved performance issues across CRM, PLP, and mobile modules, including pagination and API updates.
+- Integrated AI-based car comparison (SpinnyAI GPT) on the Sales CRM Lead Page, cutting manual effort by 40% and speeding up decision-making by 25% through smart AI prompts.
 
-### Software Developer Trainee | MountBlue Technologies (Oct 2023 – Dec 2023)
-- Designed and implemented advanced web solutions, increasing user engagement by 30%.
-- Mastered frontend and backend technologies, enhancing project efficiency by 20%.
+### Software Engineer Intern - Hybrid | Zimyo (Sep 2024 – Dec 2024)
+- Redesigned onboarding and offboarding modules with API integration, enhancing functionality for over 2,000 platform users.
+- Built payroll components including salary remapping, CTC, and tip calculator, automating calculations for 300+ employees.
+- Developed an employee expense module with paginated tables, enabling seamless workflow management for 500+ transactions.
+
+### Software Development Engineer (SDE - I) - Onsite | MountBlue Technologies (Oct 2023 – Apr 2024)
+- Developed full-stack web applications using Java, Spring Boot, MySQL, ReactJS, CSS, and JavaScript, improving engagement by 30%.
+- Integrated Thymeleaf with Spring Boot for dynamic rendering, improving UI flexibility and reducing page load time.
+- Progressed from core to advanced Java with Spring integration, enhancing performance by 20% and backend scalability.
+- Gained hands-on experience in system operations and scripting on Linux, supporting stable development environments.
+- Applied Git for version control and agile collaboration, ensuring seamless code management across distributed sprints.
+
 
 ## 🏆 Achievements
 
